@@ -1,1 +1,3 @@
-"# guess-the-number" 
+"# guess-the-number"
+
+Inspired by Jonas Schmedtmann
